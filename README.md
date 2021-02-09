@@ -2,7 +2,7 @@
 
 ## Agenda
 
-- [Create AML Ressources with Python](.notebooks/00_create_ressources.ipynb) 
+- [Create AML Ressources with Python](notebooks/00_create_ressources.ipynb) 
 - Register new Datasets to AML
 - Create a ML-pipeline
 - Dataexploration with AML and python
