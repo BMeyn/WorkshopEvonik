@@ -2,6 +2,10 @@
 
 ## Agenda
 
-- Build AML Workspace with Azure Pipelines
-- Load Datasets to AML
-- Create a CI/CD Pipeline with DevOps and AML
+- Create AML Ressources with Python 
+- Register new Datasets to AML
+- Create a ML-pipeline
+- Dataexploration with AML and python
+- Create a preprocessing pipeline
+- Create a training pipeline
+- Put all pipeline steps together
