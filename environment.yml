@@ -1,0 +1,10 @@
+channels:
+  - defaults
+dependencies:
+  - python=3.7
+  - pip:
+    - azureml-defaults
+    - pandas
+    - scikit-learn
+    - numpy
+    - joblib

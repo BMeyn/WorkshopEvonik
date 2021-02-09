@@ -1,0 +1,2 @@
+
+print("Sample_1")
